@@ -1,7 +1,7 @@
 {
   "owner": "Dip To",
   "fb_ID":"ADD_YOUR_FACEBOOK_ID",
-  "adminName": "Dip To",
+  "adminName": "Mah MUD",
   "botName": "Your Baby",
   "token": "ADD_YOUR_BOT_TOKEN_HERE",
 "mongodbURI":"mongodb+srv://userg4185:zWfR3c1ez5zpAUj0@cluster0.mfbe2.mongodb.net/botbee?retryWrites=true&w=majority&appName=Cluster0",
@@ -13,7 +13,7 @@
     "json": false
   },
   "adminBot": [
-    6242891290
+    6712737851
   ],
   "botOperator": [
     6242891290
