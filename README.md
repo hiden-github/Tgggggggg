@@ -1,7 +1,7 @@
 ---
 <div align="center">
   <img src="https://i.ibb.co/G5r6p5r/image.png" width="60"/>
-   <h1>Bot'Bee<sub><sub>v1.0.0🚀</sub><sub><sub><h6>- Made By Dipto</h6></sub></sub></sub>
+   <h1>Bot'Bee<sub><sub>v1.0.0🚀</sub><sub><sub><h6>- </h6></sub></sub></sub>
   </h1>
   <p><em>A Powerful Telegram bot built by Dipto for various automated tasks.</em></p>
   <p><small>Version 1.0.0</small></p>
